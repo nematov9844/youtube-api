@@ -88,14 +88,42 @@
       "profilePicture": "https://via.placeholder.com/50?text=S"
     }
   ],
-  "users": [
+"users": [
     {
       "id": "u1",
       "name": "John Doe",
       "email": "john.doe@example.com",
+      "password": "password123",
       "profilePicture": "https://via.placeholder.com/50?text=JD",
       "likedVideos": ["1", "2", "4"],
       "subscriptions": ["ch1", "ch3", "ch5"]
+    },
+    {
+      "id": "u2",
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "password": "securepass456",
+      "profilePicture": "https://via.placeholder.com/50?text=AS",
+      "likedVideos": ["3", "5", "7"],
+      "subscriptions": ["ch2", "ch4", "ch6"]
+    },
+    {
+      "id": "u3",
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "password": "bobpass789",
+      "profilePicture": "https://via.placeholder.com/50?text=BJ",
+      "likedVideos": ["6", "8", "9"],
+      "subscriptions": ["ch1", "ch2", "ch7"]
+    },
+    {
+      "id": "u4",
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "password": "charliepass101",
+      "profilePicture": "https://via.placeholder.com/50?text=CB",
+      "likedVideos": ["4", "10", "12"],
+      "subscriptions": ["ch3", "ch5", "ch8"]
     }
   ],
   "subscribedChannels": [
