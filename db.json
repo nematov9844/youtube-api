@@ -101,8 +101,8 @@
     {
       "id": "u2",
       "name": "Alice Smith",
-      "email": "alice.smith@example.com",
-      "password": "securepass456",
+      "email": "admin",
+      "password": "admin",
       "profilePicture": "https://via.placeholder.com/50?text=AS",
       "likedVideos": ["3", "5", "7"],
       "subscriptions": ["ch2", "ch4", "ch6"]
